@@ -233,7 +233,7 @@ Pero no se preocupen, R lo hace rápido y para este taller ya traemos la soluci�
 
 <br>
 
-Éstos son los pasos para obetener la tabla de datos "limpia" de las 10 carreras de postgrado con mayor número de ingresantes para los análisis.
+Estos son los pasos para obetener la tabla de datos "limpia" de las 10 carreras de postgrado con mayor número de ingresantes para los análisis.
 
 
 ```{r limpieza}
